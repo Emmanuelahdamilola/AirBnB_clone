@@ -4,11 +4,11 @@ header {
   width: 100%;
   border-bottom: 1px solid #cccccc;
 }
-header .logo{
+.logo{
 	width: 142px;
 	height: 100%;
 	margin-left: 20px;
-	background: url(/images/logo.png);
+	background: url(../images/logo.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	object-fit: fill;
